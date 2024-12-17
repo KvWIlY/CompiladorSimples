@@ -23,7 +23,7 @@ Este projeto implementa um compilador simples que realiza a análise léxica e s
 
 - Para compilar o projeto, execute o seguinte comando no terminal:
 
-    g++ compilador.cpp -o compilador
+      g++ compilador.cpp -o compilador
 
 - **Execução**
 
@@ -31,7 +31,7 @@ Este projeto implementa um compilador simples que realiza a análise léxica e s
     - Coloque o arquivo de teste (por exemplo, testeError.txt) na mesma pasta onde o executável foi gerado.
     - Execute o programa com o seguinte comando:
 
-        ./compilador <arquivo_de_entrada>
+          ./compilador <arquivo_de_entrada>
 
 **Exemplo:**
 
