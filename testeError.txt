@@ -1,0 +1,10 @@
+{
+    int x;
+    char y;
+    {
+        bool y;
+        x = 4.a;     
+    }
+    x;
+    y;
+}

@@ -1,0 +1,12 @@
+{
+    int x;
+    float y;
+    {
+        bool y;
+        x;
+        y;
+    }
+    x;
+    y = 6.5;
+    3;
+}
